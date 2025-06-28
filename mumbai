@@ -1,2 +1,1 @@
-git remote set-url origin <url of github repo>
-I added this line just double check
+In the Git command git push -u origin master, the -u flag is a shorthand for --set-upstream.
